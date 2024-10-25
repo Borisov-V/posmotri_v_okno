@@ -95,10 +95,6 @@ ol {
   cursor: pointer;
 }
 
-.search-form__label_width {
-  width: 100%;
-}
-
 .visually-hidden {
   position: absolute;
   overflow: hidden;
